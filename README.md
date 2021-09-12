@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prince-harry-2813
 - 👀 I’m interested in software devlopment
 - 🌱 I’m currently learning Computer Science bachelor's Degree
-- 💞️ I’m looking to collaborate on everything that can lead me forward
 - 📫 How to reach me - [Mail:](mailto://hariroze@gmail.com) hariroze@gmail.com | [Linkedin](https://www.linkedin.com/in/arie-rosental/)
 
 <!---
