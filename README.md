@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harry
-- 👀 I’m interested in software devlopment
+- 👀 I’m a Back-end developer
 - 🌱 I’m currently learning Computer Science bachelor's Degree
 - 📫 How to reach me - [Mail:](mailto://hariroze@gmail.com) hariroze@gmail.com | [Linkedin](https://www.linkedin.com/in/arie-rosental/)
 
